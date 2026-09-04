@@ -1,1 +1,1 @@
-*.duckdb
+7999_census.duckdb
